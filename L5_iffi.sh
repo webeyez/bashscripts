@@ -1,4 +1,5 @@
 #!/bin/bash
+# Simple if .. else example
 
 if [ -d $1 ]
 then
